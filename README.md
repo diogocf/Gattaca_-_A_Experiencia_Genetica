@@ -1,5 +1,5 @@
 # Gattaca_-_A_Experiencia_Genetica
-Descubra qual será a vocação ou atributos de um adulto(pessoa, planta ou animal) a partir de sua foto de infância.
+Descubra qual será a vocação ou atributos de uma pessoa adulta a partir de sua foto de infância.
 
 ## Motivação
 Este projeto foi criado para participar do Desafio Alura Google: ***Imersão Inteligência Artificial 2ª Edição***.
