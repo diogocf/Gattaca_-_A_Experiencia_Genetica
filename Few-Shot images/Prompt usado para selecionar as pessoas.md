@@ -1,5 +1,5 @@
 Prompt usado para selecionar as pessoas que seriam usadas de modelo para o treinamento usando o Few-Shot Prompting:
-> me dê uma lista de 20 pessoas famosas em suas áreas e profissões em formato de tabela com os seguintes campos: nome completo, profissão. Busque uma pessoa do sexo feminino e uma do sexo masculino para cada área. Pesquise nas áreas de esportes, cinema/teatro/televisão/música, ciências, política, celebridades históricas. Busque apenas pessoas que nasceram a partir do ano 1940.
+> me dê uma lista de 20 pessoas famosas em suas áreas e profissões em formato de tabela Markdown table com os seguintes campos: nome completo, profissão. Busque uma pessoa do sexo feminino e uma do sexo masculino para cada área. Pesquise nas áreas de esportes, cinema/teatro/televisão/música, ciências, política, celebridades históricas. Busque apenas pessoas que nasceram a partir do ano 1940.
 
 Resposta do Gemini:
 | Nome Completo | Profissão | Sexo | Ano de Nascimento |
