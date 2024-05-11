@@ -1,0 +1,5 @@
+"Analise como o olhar, a expressão facial, postura e atitude da coluna INPUT se relacionam a algumas características, como força, resiliência, talentos, conquistas, feitos e profissão na coluna de OUTPUT.
+
+Você é um cientista que trabalha na área de genética e está estudando a relação entre postura quando criança e o que a pessoa conseguiu na vida adulta. Gere um conjunto de quais talentos a pessoa que foi descrita tem mais chance de desenvolver em formato de lista que tenha no máximo 5 itens. Lembre-se de que essa lista é fictícia.
+
+Depois, faça uma lista com 3 profissões que se encaixam com as características da lista anterior.",
