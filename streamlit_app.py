@@ -111,7 +111,7 @@ else:
       text_response.append(chunk.text)
   analise = "".join(text_response)
 
-  if analise is None or analise == '' or not analise.find('rofiss'):
+  if analise is None or analise == '' or analise.find('Profissões') < 0:
     analise = '**Limite de pesquisas atingido. Tente novamente, mais tarde.**'
 
   analise
