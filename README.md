@@ -1,4 +1,4 @@
-[Open in Colab</br><img src="Google_Colaboratory_Logo.png" alt="Open in Colab" width="200" height="100">](https://colab.research.google.com/github/diogocf/Gattaca_-_A_Experiencia_Genetica/blob/main/Gattaca_A_experi%C3%AAncia_gen%C3%A9tica.ipynb)
+[Open in Colab</br><img src="Google_Colaboratory_Logo.png" alt="Open in Colab" width="200" height="100">](https://colab.research.google.com/github/diogocf/Gattaca_A_experiência_genética_v1.ipynb)
 
 [Open in Streamlit</br><img src="Streamlit_logo.png" alt="Open in Streamlit" width="200" height="100">](https://gattaca-aexperienciagenetica-pocrwzxmjkhgkfg3mnnvfv.streamlit.app/)
 
