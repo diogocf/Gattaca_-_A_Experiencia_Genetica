@@ -73,7 +73,7 @@ v1 = chat.send_message(few_shots_json['few_shots'])
 from io import BytesIO
 from PIL import Image
 #import matplotlib.pyplot as plt
-from IPython.display import Markdown
+#from IPython.display import Markdown
 
 def input_foto():
   """ Carregando a foto... aguarde um momento """
